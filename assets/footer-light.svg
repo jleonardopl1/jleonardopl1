@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Bad data ruins any analysis. Good data, badly presented, ruins it too."><title>Bad data ruins any analysis. Good data, badly presented, ruins it too.</title><style>
+  .sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+  .up{animation:up .8s cubic-bezier(.2,.7,.2,1) both}
+  @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  .fade{animation:fade 1s ease both}
+  @keyframes fade{from{opacity:0}to{opacity:1}}
+  .blink{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  
+  
+</style><defs><linearGradient id="fw" x1="0" x2="1"><stop offset="0" stop-color="#047857" stop-opacity=".9"/><stop offset="1" stop-color="#B45309" stop-opacity=".9"/></linearGradient></defs><path fill="url(#fw)" fill-opacity=".16"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 70 C200 40 400 100 600 70 S1000 40 1200 70 V150 H0Z;M0 70 C200 100 400 40 600 70 S1000 100 1200 70 V150 H0Z;M0 70 C200 40 400 100 600 70 S1000 40 1200 70 V150 H0Z"/></path><path fill="url(#fw)" fill-opacity=".28"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 95 C250 75 450 115 700 95 S1050 80 1200 92 V150 H0Z;M0 92 C250 112 450 78 700 96 S1050 110 1200 95 V150 H0Z;M0 95 C250 75 450 115 700 95 S1050 80 1200 92 V150 H0Z"/></path><text x="600" y="34" text-anchor="middle" class="sans" font-size="18" font-style="italic" fill="#4A6356">“Bad data ruins any analysis. Good data, badly presented, ruins it too.”</text><text x="600" y="132" text-anchor="middle" class="mono" font-size="12" letter-spacing="3" fill="#0B1F17">FROM FARM DATA TO P&amp;L DECISIONS</text></svg>
