@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonas-leonardo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:jleonardopl@gmail.com"><img src="https://img.shields.io/badge/Email-jleonardopl%40gmail.com-0B1F17?style=for-the-badge&logo=gmail&logoColor=34D399" alt="Email"></a>
+  <a href="mailto:jleonardopl@gmail.com"><img src="https://img.shields.io/badge/Email-jleonardopl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://jleonardopl1.github.io/jleonardopl.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live-047857?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 </p>
 
@@ -38,12 +38,6 @@ I'm a **Data & Business Analyst** who has spent **9+ years** inside Brazilian ag
   <img src="./assets/stack-light.svg" width="100%" alt="Analytics & BI: Power BI, DAX, Power Query, Excel, SQL, Python, pandas, Chart.js. Product engineering: TypeScript, React, Vite, Tailwind, Supabase, Stripe, GitHub Actions. AI: Claude API, OpenAI Realtime, multi-agent workflows.">
 </picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,postgres,ts,react,vite,tailwind,supabase,githubactions,git,vscode&theme=dark">
-    <img src="https://skillicons.dev/icons?i=py,postgres,ts,react,vite,tailwind,supabase,githubactions,git,vscode&theme=light" alt="Python, PostgreSQL, TypeScript, React, Vite, Tailwind, Supabase, GitHub Actions, Git, VS Code">
-  </picture>
-</p>
 
 ### 🚀 Featured work
 
